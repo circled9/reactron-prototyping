@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron-packager": "^7.0.3",
+    "electron-prebuilt": "^1.2.1"
+  }
 }
