@@ -7,6 +7,11 @@ React + Electronで簡単にプロトタイプ作れる環境を用意したや�
 
 app.jsとかにJSXなコードを書くと、electronの実行時に変換していい感じに実行してくれます。
 
+下のコードをサンプルとして使用しています。
+
+- [React basic-jsx example](https://github.com/facebook/react/tree/master/examples/basic-jsx)
+- [Electron Quick start](http://electron.atom.io/docs/tutorial/quick-start/)
+
 ## Requirement
 
 - node.js
