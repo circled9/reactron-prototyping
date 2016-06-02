@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.9.0",
     "electron-packager": "^7.0.3",
     "electron-prebuilt": "^1.2.1"
   }
