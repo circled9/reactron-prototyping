@@ -11,11 +11,11 @@
   "author": "Matsui Masashi <matsui@kaffeine.jp>",
   "license": "ISC",
   "dependencies": {
-    "babel-preset-react": "^6.5.0",
-    "babel-register": "^6.9.0",
-    "electron-packager": "^7.0.3",
-    "electron-prebuilt": "^1.2.1",
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "electron-packager": "^8.7.0",
+    "electron-prebuilt": "^1.4.13",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   }
 }
