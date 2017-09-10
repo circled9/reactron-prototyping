@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "babel-preset-react": "^6.24.1",
-    "babel-register": "^6.24.1",
-    "electron-packager": "^8.7.0",
+    "babel-register": "^6.26.0",
+    "electron-packager": "^8.7.2",
     "electron-prebuilt": "^1.4.13",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   }
 }
