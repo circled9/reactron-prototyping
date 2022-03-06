@@ -24,7 +24,7 @@
     "start": "electron dist/main.js"
   },
   "dependencies": {
-    "electron": "^10.2.0",
+    "electron": "^11.5.0",
     "electron-reload": "^1.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
